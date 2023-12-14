@@ -1,6 +1,6 @@
 ![header-igor-projetos](https://github.com/igor-rl/assets/blob/main/img/github-projetcs-header.jpg)
 
-# Full Cycle 3.0 - desafio 1 - Node e Nginx
+# Full Cycle 3.0 - desafio 2 - Node e Nginx
 
 ### Comando de execussão:
 
